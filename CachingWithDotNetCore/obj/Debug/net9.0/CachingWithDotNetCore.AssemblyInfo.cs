@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CachingWithDotNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a39feeb5ab20e4046f161508aa19834199abf0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5e28a0add32f45a4a4d66b5e15d7070ad64eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("CachingWithDotNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CachingWithDotNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
